@@ -1,3 +1,12 @@
+# NHSX - Introduction to Python
+
+## Contibutors
+
+| Profile         | Name     | Affiliation | Bio | 
+|--------------|-----------|-----------|-----------|
+| [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSX | Azure Data Engineer with the NHSX Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
+| [![Chris Todd](https://avatars.githubusercontent.com/u/86242152?s=100&v=4)](https://github.com/christodd-nhsx) | **[Chris Todd](https://github.com/christodd-nhsx)** | NHSX | |
+
 # coding-club-IntroPython-1
 This session will cover the basics of python, including syntax, using the 'print' command, using python as a calculator, assigning variables and python data types. This will be an interactive session and participants will be given simple code based exercises to complete during the session. 
 
