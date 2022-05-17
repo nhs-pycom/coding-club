@@ -1,4 +1,4 @@
-# 📈 Introduction to matplotlib
+# 📈 Introduction to Matplotlib
 *December 2021*
 
 ## Contibutors
