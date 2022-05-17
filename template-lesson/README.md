@@ -5,7 +5,7 @@
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| [![name](https://avatars.githubusercontent.com/u/...?s=100&v=4)](https://github.com/user-name) | **[name](https://github.com/user-name)** | Affiliation | Bio |
+| <a href="https://github.com/user-name"><img src="https://avatars.githubusercontent.com/u/user-name?&v=4" width="100" height="100" /></a> | **[name](https://github.com/user-name)** | Affiliation | Bio |
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
 
