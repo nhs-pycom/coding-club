@@ -5,7 +5,7 @@
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| [![Jeniffer Hall](https://avatars.githubusercontent.com/u/85556601?s=100&v=4)](https://github.com/jen-hall) | **[Jeniffer Hall](https://github.com/jen-hall)** | NHS AI Lab | Data Scientist with the NHS AI Lab. |
+| [![Jennifer Hall](https://avatars.githubusercontent.com/u/85556601?s=50&v=4)](https://github.com/jen-hall) | **[Jennifer Hall](https://github.com/jen-hall)** | NHS AI Lab | Senior Data Scientist with the NHS AI Lab. |
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/coding-club-python-introduction-to-matplotlib/blob/main/coding_club_introduction_to_matplotlib.ipynb)
 
