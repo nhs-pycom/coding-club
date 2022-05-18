@@ -1,4 +1,4 @@
-# 📈 Introduction to Data Wrangling
+# Introduction to Data Wrangling
 *Nov 2021*
 
 ## Contibutors

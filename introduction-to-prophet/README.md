@@ -1,20 +1,20 @@
-# Introduction to ...
+# Introduction to Prophet
 *Date*
 
 ## Contibutors
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| <a href="https://github.com/user-name"><img src="https://avatars.githubusercontent.com/u/user-name?&v=4" width="80" height="80" /></a> | **[name](https://github.com/user-name)** | Affiliation | Bio |
+| <a href="https://github.com/danjscho"><img src="https://avatars.githubusercontent.com/u/67116171?v=4" width="80" height="80" /></a> | **[Dan Schofield](https://github.com/danjscho)** | NHSX | Senior Data Scientist @ Analytics Unit |
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
 
 #### 🔎 **About this session**
 
-This session will give an introduction to ...
+This session will give an introduction to the use of the package `Prophet` produced by the core Data Science team at Facebook.  The package is available with both python and R wrappers of the underlying stan model, which was built with accuracy, speed, interpretability, and automation in mind, for time-series forecasting at scale.
 
-> Information on ... can be found here:
-- [link]()
+> Information on Prophet can be found here:
+- [[link](https://facebook.github.io/prophet/)](https://facebook.github.io/prophet/)
 
 This session will cover:
 

@@ -1,17 +1,17 @@
-# Introduction to ...
+# Introduction to Data Ingestion
 *Date*
 
 ## Contibutors
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| <a href="https://github.com/user-name"><img src="https://avatars.githubusercontent.com/u/user-name?&v=4" width="80" height="80" /></a> | **[name](https://github.com/user-name)** | Affiliation | Bio |
+| [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSX | Azure Data Engineer with the NHSX Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
 
 #### 🔎 **About this session**
 
-This session will give an introduction to ...
+These two sessions focus on data and shapefile ingestion, transformation and visualizaiton from the OpenPrescribing.net and the ONS Open Geography portal API using the urllib, pandas, JSON, and folium libraries. The first session fouses on data ingestion and transformation, while the second session covers visualizing NHS data dynamically using the python library folium. The second session builds off the first session directly. 
 
 > Information on ... can be found here:
 - [link]()
@@ -51,4 +51,5 @@ The following are helpful resources for ...
 *   Resource one: [link]()
 *   Resource two: [link]()
 *   Resource three: [link]()
+
 
