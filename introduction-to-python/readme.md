@@ -4,8 +4,8 @@
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSX | Azure Data Engineer with the NHSX Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
-| [![Chris Todd](https://avatars.githubusercontent.com/u/86242152?s=100&v=4)](https://github.com/christodd-nhsx) | **[Chris Todd](https://github.com/christodd-nhsx)** | NHSX | |
+| [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSX | Azure Data Engineer with the Transformation Directorate Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
+| [![Chris Todd](https://avatars.githubusercontent.com/u/86242152?s=100&v=4)](https://github.com/christodd-nhsx) | **[Chris Todd](https://github.com/christodd-nhsx)** | NHSX | | Senior Digital Analyst with the Transformation Directorate Analytics Unit. MSc Data Science. 
 
 #### 🔎 **About these sessions**
 
@@ -17,6 +17,7 @@
 | **[Session-4](https://github.com/nhs-pycom/coding-club/blob/main/introduction-to-python/episode-4.ipynb)** | This session will cover the basics of python building off the topics which were covered in Session 3. Loop and the python library NumPy will be covered in session 4. |
 | **[Session-5](https://github.com/nhs-pycom/coding-club/blob/main/introduction-to-python/episode-5.ipynb)** | This session focus on the basics of Pandas, a package similar to NumPy which contains tools and data structures for working with data. We will look at the key data structures that Pandas contains, how to create them, and how to extract basic information from them. |
 | **[Session-6](https://github.com/nhs-pycom/coding-club/blob/main/introduction-to-python/episode-6.ipynb)** | This continues directly from session 5, and covers how we can reorganise data that we have, using sorting, grouping, resampling and pivoting. |
+| **[Session-7](https://github.com/nhs-pycom/coding-club/blob/main/introduction-to-python/episode-7.ipynb)** | This session introduces custom classes and how they can be used to organise data. |
 
 ---
 
