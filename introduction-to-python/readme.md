@@ -4,8 +4,8 @@
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSX | Azure Data Engineer with the Transformation Directorate Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
-| [![Chris Todd](https://avatars.githubusercontent.com/u/86242152?s=100&v=4)](https://github.com/christodd-nhsx) | **[Chris Todd](https://github.com/christodd-nhsx)** | NHSX | | Senior Digital Analyst with the Transformation Directorate Analytics Unit. MSc Data Science. 
+| [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSE | Azure Data Engineer with the Transformation Directorate Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
+| [![Chris Todd](https://avatars.githubusercontent.com/u/86242152?s=100&v=4)](https://github.com/christodd-nhsx) | **[Chris Todd](https://github.com/christodd-nhsx)** | NHSE | | Senior Digital Analyst with the Transformation Directorate Analytics Unit. MSc Data Science. 
 
 #### 🔎 **About these sessions**
 
