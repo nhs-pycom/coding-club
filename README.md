@@ -2,6 +2,8 @@
 
 Welcome to the Coding Club resource repository! Here are the sessions developed by the NHSX Analytics Unit and friends which we used to skill-up on python.
 
+Link to [Onboarding Instructions](https://nhs-pycom.net/coding-club).
+
 #### 🔎 **Sessions in this repository**
 
 | Session | Contibutors | Description |
