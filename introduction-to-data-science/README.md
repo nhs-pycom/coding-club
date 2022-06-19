@@ -1,13 +1,37 @@
-## Want to learn python for your data job but don't know where to start?
+# Introduction to Data Science
 
-You've come to the right place!!
+### Contibutors
+
+| Profile         | Name     | Affiliation | Bio | 
+|--------------|-----------|-----------|-----------|
+| [![Mary Amanuel](https://avatars.githubusercontent.com/u/73167040?s=100v=4)](https://github.com/maryamanuelnhsx) | **[Mary Amanuel](https://github.com/maryamanuelnhsx)** | NHSE ESA | Co-founder NHS Python Community & Analyst |
+| [![Josh Strong](https://avatars.githubusercontent.com/u/57325064?s=100v=4)](https://github.com/JoshStrong) | **[Josh Strong](https://github.com/JoshStrong)** | NHSE ESA | NHS Python Community contributor & Data Science Analyst |
+
+#### 🔎 **About these sessions**
 
 This session will help you learn about the benefits of using Python for data analytics and data science, through worked examples and discussions.
 
-If you're data scientist, this might not be the right level for you but this is a good referesher of funadmental concepts.
+---
 
-Created by:
+#### ☑ **Prerequisites**
 
-    Mary Amanuel (Co-founder @ NHS.PyCom & Analyst @ ESA) - mary.amanuel@nhs.net
+- These sessions assume no working knowledge of python and is suitable for beginners.
+- If you are already a data scientist, this might not be the right level for you but this is a good referesher of funadmental concepts.
+---
 
-    Josh Strong (NHS.PyCom contributor & Data Science Analyst @ ESA) - joshua.strong@nhs.net
+#### 🥇 **Why is learning python important?**
+
+> * Python is one of the top programming languages in the world
+
+> * Python developers have some of the highest salaries in the industry.
+
+> * Python is extremely easy to learn, whilst also being a very powerful language.
+
+---
+
+#### 📚 **Additional Reading**
+The following are helpful resources for learning python.
+
+*
+*   
+*  
