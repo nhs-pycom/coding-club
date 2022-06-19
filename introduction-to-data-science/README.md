@@ -4,8 +4,8 @@
 
 | Profile         | Name     | Affiliation | Bio | 
 |--------------|-----------|-----------|-----------|
-| [![Mary Amanuel](https://avatars.githubusercontent.com/u/73167040?s=100v=4)](https://github.com/maryamanuelnhsx) | **[Mary Amanuel](https://github.com/maryamanuelnhsx)** | NHSE ESA | Co-founder NHS Python Community & Analyst |
-| [![Josh Strong](https://avatars.githubusercontent.com/u/57325064?s=100v=4)](https://github.com/JoshStrong) | **[Josh Strong](https://github.com/JoshStrong)** | NHSE ESA | NHS Python Community contributor & Data Science Analyst |
+| <a href="https://github.com/maryamanuelnhsx"><img src="https://avatars.githubusercontent.com/u/73167040?s=100v=4" width="80" height="80" /></a> | **[Mary Amanuel](https://github.com/maryamanuelnhsx)** | NHSE Economics & Strategic Analysis (ESA)  | Co-founder NHS Python Community & Analyst |
+| <a href="https://github.com/JoshStrong"><img src="https://avatars.githubusercontent.com/u/57325064?s=100v=4" width="80" height="80" /></a> | **[Josh Strong](https://github.com/JoshStrong)** | NHSE Economics & Strategic Analysis (ESA) | NHS Python Community contributor & Data Science Analyst |
 
 #### 🔎 **About these sessions**
 
