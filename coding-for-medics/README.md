@@ -2,9 +2,9 @@
 
 ## Contibutors
 
-| Name     | Affiliation |
-|-----------|-----------|
-| **[Dr Anchit Chandran](mailto:anchit.chandran16@imperial.ac.uk)** | Imperial College London |
+| Name     | Affiliation | Social | Email |
+|-----------|-----------|---------|-------|
+| **[Dr Anchit Chandran](https://www.anchit.me)** | Imperial College London | [@medic_ode](https://twitter.com/medic_ode) | [medicode@anchit.me](mailto:medicode@anchit.me) |
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/coding-for-medics/coding-basics.ipynb)
 
