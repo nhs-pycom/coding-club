@@ -1,54 +1,49 @@
-# Introduction to ...
-*Date*
+# Coding for Medics
 
 ## Contibutors
 
-| Profile         | Name     | Affiliation | Bio | 
-|--------------|-----------|-----------|-----------|
-| <a href="https://github.com/user-name"><img src="https://avatars.githubusercontent.com/u/user-name?&v=4" width="80" height="80" /></a> | **[name](https://github.com/user-name)** | Affiliation | Bio |
+| Name     | Affiliation |
+|-----------|-----------|
+| **[Dr Anchit Chandran](mailto:anchit.chandran16@imperial.ac.uk)** | Imperial College London |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/coding-for-medics/coding-basics.ipynb)
 
 #### 🔎 **About this session**
 
-This session will give an introduction to ...
-
-> Information on ... can be found here:
-- [link]()
+This session will give an introduction to coding for Medics
 
 This session will cover:
 
-*   
-*   
-*   
-*   
+*   Understand the syntax of Python
+*   Understand variables in Python
+*   Utilise comments to begin establishing good coding practices
+*   Apply understanding of variables to update variable values
+*   Understand and differentiate between data types
+*   Utilise f-strings
+*   Apply knowledge of syntax and variables to create basic programs
 
 ---
 
 #### ☑ **Prerequisites**
 
-- This session will assume a working knowledge of what has been covered in previous sessions which can be found here: https://github.com/nhs-pycom/.
-- In particular understanding of ... Please refer to this session for more information: [link]()
+- These sessions assume no working knowledge of python and is suitable for beginners.
 
 ---
 
-#### 🥇 **Why is ... important?**
+#### 🥇 **Why is learning python important?**
 
-As described in ...
+> * Python is one of the top programming languages in the world
 
-> * *Point one*
+> * Python developers have some of the highest salaries in the industry.
 
-> * *Point two.*
-
-> * *Point three*
+> * Python is extremely easy to learn, whilst also being a very powerful language.
 
 ---
-
 
 #### 📚 **Additional Reading**
-The following are helpful resources for ...
+The following are helpful resources for learning python.
 
-*   Resource one: [link]()
-*   Resource two: [link]()
-*   Resource three: [link]()
+*   [PyHacks](https://github.com/StatsGary/PyHacks-Tutorials) is a tutorial repo managed by Gary Hutson from [hutsons-hacks.info](https://hutsons-hacks.info/).
+*   [Python Community: Introduction to Python](https://github.com/nhs-pycom/coding-club/tree/main/introduction-to-python)
+*   
 
