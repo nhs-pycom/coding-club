@@ -7,7 +7,7 @@
 |--------------|-----------|-----------|-----------|
 | [![Mattia Ficarelli](https://avatars.githubusercontent.com/u/79908979?s=100&v=4)](https://github.com/mattia-ficarelli) | **[Mattia Ficarelli](https://github.com/mattia-ficarelli)** | NHSX | Azure Data Engineer with the NHSX Analytics Unit. Executive committee member of the NHS Python Community. PhD in Molecular Virology. |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/introduction-to-data-ingestion/introduction-to-data-ingestion.ipynb)
 
 #### 🔎 **About this session**
 

@@ -1,6 +1,8 @@
 # Introduction to Data Wrangling
 *Nov 2021*
 
+<a href="https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/introduction-to-data-wrangling/introduction-to-data-wrangling.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Contibutors
 
 | Profile         | Name     | Affiliation | Bio | 

@@ -7,7 +7,7 @@
 |--------------|-----------|-----------|-----------|
 | <a href="https://github.com/JRPearson500"><img src="https://avatars.githubusercontent.com/u/67793644?v=4" width="80" height="80" /></a> | **[Jonny Pearson](https://github.com/JRPearson500)** | NHSX | Lead Data Scientist @ Analytics Unit |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/introduction-to-apis/introduction-to-apis.ipynb)
 
 #### 🔎 **About this session**
 
