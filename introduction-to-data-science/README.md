@@ -1,5 +1,7 @@
 # Introduction to Data Science
 
+<a href="https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/introduction-to-data-science/introduction-to-data-science.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ### Contibutors
 
 | Profile         | Name     | Affiliation | Bio | 

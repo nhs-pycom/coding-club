@@ -7,7 +7,7 @@
 |--------------|-----------|-----------|-----------|
 | <a href="https://github.com/danjscho"><img src="https://avatars.githubusercontent.com/u/67116171?v=4" width="80" height="80" /></a> | **[Dan Schofield](https://github.com/danjscho)** | NHSX | Senior Data Scientist @ Analytics Unit |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/...link-tofile....ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/coding-club/blob/main/introduction-to-prophet/introduction-to-prophet.ipynb)
 
 #### 🔎 **About this session**
 
